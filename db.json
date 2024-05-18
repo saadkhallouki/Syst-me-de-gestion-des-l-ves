@@ -1,0 +1,572 @@
+{
+  "students": [
+    {
+      "id": "s1",
+      "name": "saad",
+      "gender": "Male",
+      "dob": "2003-04-4",
+      "parentName": "khallouki",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "saad",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "name": "salma",
+      "gender": "Female",
+      "dob": "2003-04-4",
+      "parentName": "imassaden",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "salma",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "name": "rania",
+      "gender": "Female",
+      "dob": "2003-04-4",
+      "parentName": "rania",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "rania",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "name": "karima",
+      "gender": "Female",
+      "dob": "2003-04-4",
+      "parentName": "karima",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "karima",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "name": "me",
+      "gender": "Male",
+      "dob": "2003-04-4",
+      "parentName": "me",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "me",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "name": "simo",
+      "gender": "Male",
+      "dob": "2003-04-4",
+      "parentName": "simo",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "simo",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "name": "ahmed",
+      "gender": "Male",
+      "dob": "2003-04-4",
+      "parentName": "khallouki",
+      "mobileNumber": "010101010101",
+      "address": "marrakech, Morocco",
+      "firstName": "ahmed",
+      "grades": [
+        {
+          "course": "Java",
+          "grade": "15"
+        },
+        {
+          "course": "PFA",
+          "grade": "4"
+        },
+        {
+          "course": "Genie Logiciel",
+          "grade": "14"
+        },
+        {
+          "course": "Dev Mobile",
+          "grade": "15"
+        },
+        {
+          "course": "English",
+          "grade": "17"
+        },
+        {
+          "course": "French",
+          "grade": "15"
+        },
+        {
+          "course": "Marketing",
+          "grade": "15"
+        },
+        {
+          "course": "Oracle",
+          "grade": "15"
+        },
+        {
+          "course": "DEVOPS",
+          "grade": "15"
+        },
+        {
+          "course": "réseau",
+          "grade": "15"
+        }
+      ]
+    },
+    {
+      "id": "s100",
+      "name": "saad",
+      "gender": "Male",
+      "dob": "2003-03-24",
+      "parentName": "khallouki",
+      "mobileNumber": "0631745467",
+      "address": "azli sud - n°887 - Marrakech",
+      "firstName": "saad",
+      "class": "4IIR"
+    },
+    {
+      "id": "s111",
+      "name": "saad",
+      "gender": "Male",
+      "dob": "2003-03-24",
+      "parentName": "khallouki",
+      "mobileNumber": "0631745467",
+      "address": "marrakech"
+    }
+  ],
+  "Teacher": [
+    {
+      "id": "t2",
+      "firstname": "teacher2",
+      "lastname": "teacher2",
+      "gender": "Female",
+      "email": "teacher2@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "t3",
+      "firstname": "teacher3",
+      "lastname": "teacher",
+      "gender": "Female",
+      "email": "teacher3@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "t4",
+      "firstname": "teacher4",
+      "lastname": "teacher4",
+      "gender": "Female",
+      "email": "teacher3@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "t5",
+      "firstname": "teacher5",
+      "lastname": "teacher5",
+      "gender": "Female",
+      "email": "teacher3@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "t6",
+      "firstname": "teacher6",
+      "lastname": "teacher6",
+      "gender": "Female",
+      "email": "teacher3@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "t7",
+      "firstname": "teacher7",
+      "lastname": "teacher7",
+      "gender": "Female",
+      "email": "teacher3@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "t8",
+      "firstname": "teacher8",
+      "lastname": "teacher8",
+      "gender": "Female",
+      "email": "teacher3@gmail.com",
+      "phonenumber": "0644307470",
+      "address": "marrakech, Morocco"
+    },
+    {
+      "id": "s200",
+      "firstname": "teacher102",
+      "lastname": "teacher100",
+      "gender": "Male",
+      "email": "teach@gmail.com",
+      "phonenumber": "0000000000",
+      "address": "marrakech, Morocco"
+    }
+  ],
+  "Admin": [
+    {
+      "username ": "admin",
+      "password": "admin",
+      "id": "162f"
+    }
+  ],
+  "Group": [
+    {
+      "name": "G1",
+      "year": "4éme année",
+      "sector": "IFA",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "g2",
+      "year": "2eme",
+      "sector": "ap"
+    },
+    {
+      "name": "G3",
+      "year": "4éme année",
+      "sector": "IFA",
+      "id": "3"
+    },
+    {
+      "name": "G4",
+      "year": "1er année",
+      "sector": "AP",
+      "id": "4"
+    },
+    {
+      "name": "G5",
+      "year": "5éme année",
+      "sector": "IIR",
+      "id": "5"
+    },
+    {
+      "name": "G6",
+      "year": "3éme année",
+      "sector": "IFA",
+      "id": "6"
+    },
+    {
+      "name": "G7",
+      "year": "4éme année",
+      "sector": "IIR",
+      "id": "7"
+    },
+    {
+      "name": "G8",
+      "year": "2éme année",
+      "sector": "AP",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "name": "G9",
+      "year": "4éme année",
+      "sector": "IFA"
+    }
+  ],
+  "Subject": [
+    {
+      "id": "sub1",
+      "name": "Java",
+      "coefficient": "4"
+    },
+    {
+      "id": "sub2",
+      "name": "english",
+      "coefficient": "2"
+    },
+    {
+      "id": "sub3",
+      "name": "french",
+      "coefficient": "2"
+    },
+    {
+      "id": "sub4",
+      "name": "Dev Mobile",
+      "coefficient": "4"
+    },
+    {
+      "id": "sub5",
+      "name": "Genie Logiciel",
+      "coefficient": "3"
+    },
+    {
+      "id": "sub6",
+      "name": "Oracle",
+      "coefficient": "3"
+    },
+    {
+      "id": "sub7",
+      "name": "DEVOPS",
+      "coefficient": "2"
+    },
+    {
+      "id": "sub8",
+      "name": "Réseau",
+      "coefficient": "3"
+    },
+    {
+      "id": "sub10",
+      "name": "datawarehouse",
+      "coefficient": "2"
+    }
+  ]
+}
